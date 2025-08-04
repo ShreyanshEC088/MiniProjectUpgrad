@@ -36,6 +36,8 @@ src/
 ├── dto/             → Data Transfer Objects (Requests & Responses)
 └── util/            → Utility classes (JSON parsing, HTTP response helpers)
 
+```
+
 
 ---
 
