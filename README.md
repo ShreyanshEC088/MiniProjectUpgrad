@@ -1,4 +1,4 @@
-<img width="1433" height="899" alt="Screenshot 2025-08-04 at 3 31 20 PM" src="https://github.com/user-attachments/assets/79fb9e5b-b392-4e75-9d42-d24f44e34d01" /># Restaurant Management System
+Restaurant Management System
 
 A Java-based Restaurant Management System built with `HttpServer` (from `com.sun.net.httpserver`) to expose RESTful APIs for managing bookings, orders, kitchen operations, billing, and admin functionalities. It follows a clean layered architecture with controllers, services, DAOs, DTOs, and models, and persists data in a relational SQL database via JDBC.
 
@@ -397,6 +397,8 @@ stateDiagram-v2
 ```
 
 ## Results
+
+<img width="1433" height="899" alt="Screenshot 2025-08-04 at 3 31 20 PM" src="https://github.com/user-attachments/assets/79fb9e5b-b392-4e75-9d42-d24f44e34d01" />#
 
 <img width="1433" height="899" alt="Screenshot 2025-08-04 at 3 31 20 PM" src="https://github.com/user-attachments/assets/36dc1627-0b21-478f-9aa1-70a9a98b80e4" />
 
