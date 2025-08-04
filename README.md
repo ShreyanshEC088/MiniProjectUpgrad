@@ -1,4 +1,4 @@
-# Restaurant Management System
+<img width="1433" height="899" alt="Screenshot 2025-08-04 at 3 31 20 PM" src="https://github.com/user-attachments/assets/79fb9e5b-b392-4e75-9d42-d24f44e34d01" /># Restaurant Management System
 
 A Java-based Restaurant Management System built with `HttpServer` (from `com.sun.net.httpserver`) to expose RESTful APIs for managing bookings, orders, kitchen operations, billing, and admin functionalities. It follows a clean layered architecture with controllers, services, DAOs, DTOs, and models, and persists data in a relational SQL database via JDBC.
 
@@ -395,4 +395,26 @@ stateDiagram-v2
     Send200 --> [*]
     Send405 --> [*]
 ```
+
+## Results
+
+<img width="1433" height="899" alt="Screenshot 2025-08-04 at 3 31 20 PM" src="https://github.com/user-attachments/assets/36dc1627-0b21-478f-9aa1-70a9a98b80e4" />
+
+<img width="1432" height="851" alt="Screenshot 2025-08-04 at 3 31 47 PM" src="https://github.com/user-attachments/assets/9954266b-1aae-4bdd-9311-f08354d831cb" />
+
+<img width="1434" height="851" alt="Screenshot 2025-08-04 at 3 32 02 PM" src="https://github.com/user-attachments/assets/b8f0c998-4923-430a-8fff-44e634ed4769" />
+
+<img width="1434" height="856" alt="Screenshot 2025-08-04 at 3 32 17 PM" src="https://github.com/user-attachments/assets/115ccfc7-12d1-4588-bb89-4cd228776c87" />
+
+<img width="1432" height="856" alt="Screenshot 2025-08-04 at 3 32 25 PM" src="https://github.com/user-attachments/assets/b09ccba2-8a6a-4f39-aa08-2e716c9aec6d" />
+
+<img width="1434" height="859" alt="Screenshot 2025-08-04 at 3 32 46 PM" src="https://github.com/user-attachments/assets/5fa05c6b-2d53-4435-a8a2-a357a5ae7d6c" />
+
+<img width="1434" height="857" alt="Screenshot 2025-08-04 at 3 32 59 PM" src="https://github.com/user-attachments/assets/1a693087-c4dd-4b82-a4df-fc88e4f809b6" />
+
+<img width="1433" height="858" alt="Screenshot 2025-08-04 at 3 32 35 PM" src="https://github.com/user-attachments/assets/9b8bb9e3-6ac1-455f-93b2-a91c2c547b79" />
+
+
+
+
 
