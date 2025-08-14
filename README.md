@@ -398,6 +398,8 @@ stateDiagram-v2
 
 ## Results
 
+## First Mini Project 
+
 <img width="1433" height="899" alt="Screenshot 2025-08-04 at 3 31 20 PM" src="https://github.com/user-attachments/assets/79fb9e5b-b392-4e75-9d42-d24f44e34d01" />#
 
 <img width="1433" height="899" alt="Screenshot 2025-08-04 at 3 31 20 PM" src="https://github.com/user-attachments/assets/36dc1627-0b21-478f-9aa1-70a9a98b80e4" />
@@ -416,7 +418,43 @@ stateDiagram-v2
 
 <img width="1433" height="858" alt="Screenshot 2025-08-04 at 3 32 35 PM" src="https://github.com/user-attachments/assets/9b8bb9e3-6ac1-455f-93b2-a91c2c547b79" />
 
+## Second Mini Project
 
+<img width="1080" height="801" alt="Screenshot 2025-08-14 at 5 17 38 PM" src="https://github.com/user-attachments/assets/2af353ea-6e62-445e-be1f-cb7ca8630c47" />
 
+<img width="1084" height="726" alt="Screenshot 2025-08-14 at 5 17 50 PM" src="https://github.com/user-attachments/assets/a5045737-722c-46ea-a49b-ab92c88356f0" />
 
+<img width="1080" height="709" alt="Screenshot 2025-08-14 at 5 17 59 PM" src="https://github.com/user-attachments/assets/635ed660-bcb2-4828-a4c9-ffa7e88dc8bf" />
+
+<img width="1086" height="758" alt="Screenshot 2025-08-14 at 5 16 11 PM" src="https://github.com/user-attachments/assets/b373c0e2-c6a1-4b34-80c5-a128e6a69dba" />
+
+<img width="1086" height="834" alt="Screenshot 2025-08-14 at 5 11 24 PM" src="https://github.com/user-attachments/assets/0bd3530b-a1bb-46a1-8aff-95aadbfb9f26" />
+
+<img width="1078" height="838" alt="Screenshot 2025-08-14 at 5 10 43 PM" src="https://github.com/user-attachments/assets/ffedd661-9e26-4e9b-81b9-c959af248475" />
+
+<img width="1086" height="834" alt="Screenshot 2025-08-14 at 5 11 24 PM" src="https://github.com/user-attachments/assets/a2b96b72-7698-4e10-b0ab-07a50ebddda3" />
+
+<img width="1089" height="857" alt="Screenshot 2025-08-14 at 5 11 40 PM" src="https://github.com/user-attachments/assets/7a04869a-a46c-44a2-ae8b-3caf77529440" />
+
+<img width="1088" height="771" alt="Screenshot 2025-08-14 at 5 18 07 PM" src="https://github.com/user-attachments/assets/6790a889-f838-4b54-a38c-709598d908b7" />
+
+<img width="1083" height="672" alt="Screenshot 2025-08-14 at 5 16 27 PM" src="https://github.com/user-attachments/assets/cbe90479-d7a4-41cb-bf2b-8e055f8ca178" />
+
+<img width="1083" height="721" alt="Screenshot 2025-08-14 at 5 17 24 PM" src="https://github.com/user-attachments/assets/a34806ec-f15b-4956-8def-a0007e0dc5f9" />
+
+<img width="1089" height="857" alt="Screenshot 2025-08-14 at 5 11 40 PM" src="https://github.com/user-attachments/assets/1add0244-f55d-4a35-90fc-c1b49ef1b744" />
+
+<img width="1104" height="831" alt="Screenshot 2025-08-14 at 5 11 49 PM" src="https://github.com/user-attachments/assets/7196b544-334a-4b33-b5bd-d337a5d4af0b" />
+
+<img width="1058" height="822" alt="Screenshot 2025-08-14 at 5 15 24 PM" src="https://github.com/user-attachments/assets/d749d610-c2e7-4631-a885-978e263f3046" />
+
+<img width="1104" height="831" alt="Screenshot 2025-08-14 at 5 11 49 PM" src="https://github.com/user-attachments/assets/41752c28-5e0d-4cea-b047-f8288429beac" />
+
+<img width="1079" height="816" alt="Screenshot 2025-08-14 at 5 10 57 PM" src="https://github.com/user-attachments/assets/773a695c-7ecf-4572-a2b0-39668d265cb2" />
+
+<img width="1087" height="390" alt="Screenshot 2025-08-14 at 5 11 11 PM" src="https://github.com/user-attachments/assets/4b6ff8d4-4328-4958-9a14-5ef1b3e5fe03" />
+
+<img width="1088" height="647" alt="Screenshot 2025-08-14 at 5 15 33 PM" src="https://github.com/user-attachments/assets/4609e3e0-8958-4f51-a156-e6183b0fabad" />
+
+<img width="1083" height="721" alt="Screenshot 2025-08-14 at 5 17 24 PM" src="https://github.com/user-attachments/assets/37a6c66b-0ba6-41f9-bf7f-c00d42d5cf65" />
 
